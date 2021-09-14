@@ -1,0 +1,4 @@
+[submodule "doorgod_site/public"]
+	path = doorgod_site/public
+	url = https://github.com/doorgod42/doorgod42.github.io.git
+	branch = main
